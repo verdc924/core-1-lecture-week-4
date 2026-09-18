@@ -1,4 +1,7 @@
 body {
-  background-color: gainsboro;
+  background-color: pink;
   min-height: 100vh;
+}
+h1 { 
+  font-family: cursive;
 }
