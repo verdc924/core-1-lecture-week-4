@@ -12,3 +12,7 @@ p{
   color: cornflowerblue;
   text-indent: 40px;
 }
+h1:hover { 
+  font-family: Georgia;
+  color: blue;
+}
